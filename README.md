@@ -14,8 +14,8 @@ Passionate about building responsive, performant web apps and crafting clean, ma
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React, Next.js, Redux, Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express, MongoDB, REST APIs  
+**Frontend:** React, React Native, Next.js, Redux, Tailwind CSS, HTML5, CSS3,Javascript  
+**Backend:** Node.js, Python, Java, Express, Django, Springboot, MongoDB, MySQL, REST APIs  
 **Tools & Others:** Git, GitHub Actions, Docker (basic), Vercel/Netlify
 
 ---
