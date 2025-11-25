@@ -1,12 +1,12 @@
 # Hi there, I'm **Sathiyaseelan** 👋
 
-💻 **Web Developer** • **3+ years of experience**  
+💻 **Software Developer** • **2+ years of experience**  
 Passionate about building responsive, performant web apps and crafting clean, maintainable code.
 
 ---
 
 ### 🚀 About Me
-- 🧩 Skilled in **JavaScript / TypeScript**, **React / Next.js / React Native**, **Node.js**,**Python** and the **MERN stack**  
+- 🧩 Skilled in **JavaScript / TypeScript**, **React / Next.js / React Native**, **Node.js**,**Python**,**Java** and the **MERN stack**  
 - 🎨 Love creating **modern, responsive UIs** with **Tailwind CSS**  
 - ⚡ Strong background in **REST APIs**, **database design**, and **cloud deployment**  
 - 🧠 Constantly learning new technologies to improve user experience
